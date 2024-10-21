@@ -2,16 +2,27 @@
 ## 구조
 
 calculator/
+
 │
+
 ├── app/
+
 │   ├── __init__.py
+
 │   ├── main.py        
+
 │   ├── database.py     
+
 │   ├── models.py       
+
 │   └── schemas.py     
+
 │
+
 ├── README.md          
+
 └── requirements.txt    
+
 
 ## 주요 기능
 
