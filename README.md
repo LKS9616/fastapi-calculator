@@ -1,17 +1,17 @@
 
 ## 구조
 
-fastapi-calculator/
+calculator/
 │
 ├── app/
 │   ├── __init__.py
-│   ├── main.py     
-│   ├── database.py    
+│   ├── main.py        
+│   ├── database.py     
 │   ├── models.py       
-│   └── schemas.py       
+│   └── schemas.py     
 │
-├── README.md         
-└── requirements.txt   
+├── README.md          
+└── requirements.txt    
 
 ## 주요 기능
 
