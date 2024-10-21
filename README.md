@@ -5,12 +5,12 @@ fastapi-calculator/
 │
 ├── app/
 │   ├── __init__.py
-│   ├── main.py        
+│   ├── main.py     
 │   ├── database.py    
 │   ├── models.py       
-│   └── schemas.py        
+│   └── schemas.py       
 │
-├── README.md          
+├── README.md         
 └── requirements.txt   
 
 ## 주요 기능
